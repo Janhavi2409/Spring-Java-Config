@@ -1,2 +1,5 @@
-package org.janhavi;public interface Computer {
+package org.janhavi;
+
+public interface Computer {
+    void compile();
 }

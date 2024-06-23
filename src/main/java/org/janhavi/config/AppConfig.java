@@ -1,4 +1,4 @@
-package org.janhavi;
+package org.janhavi.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
